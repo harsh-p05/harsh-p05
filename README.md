@@ -8,5 +8,6 @@
 harsh-p05/harsh-p05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![image](https://github.com/harsh-p05/harsh-p05/assets/134389921/3c4d2751-c13a-4e22-8429-784c6016dc43)
+![Screenshot from 2023-10-24 12-43-24](https://github.com/harsh-p05/harsh-p05/assets/134389921/299ac403-e288-46a5-affb-07eb1354585a)
+
 
