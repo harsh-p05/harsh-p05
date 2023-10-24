@@ -8,4 +8,5 @@
 harsh-p05/harsh-p05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-[![An image of @harshp05's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/harshp05)](https://holopin.io/@harshp05)
+![image](https://github.com/harsh-p05/harsh-p05/assets/134389921/3c4d2751-c13a-4e22-8429-784c6016dc43)
+
